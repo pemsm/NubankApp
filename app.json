@@ -1,0 +1,12 @@
+{
+  "name": "NubankApp",
+  "displayName": "NubankApp",
+  "expo": {
+    "name": "NubankApp",
+    "slug": "NubankApp",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
